@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋
 
 <!--
 **taovv/taovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=tao&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="tao's GitHub stats" height="185px" /><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=tao&layout=compact&langs_count=8&theme=calm&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=taovv&theme=tokyonight&show_icons=true" alt="tao's GitHub stats" height="185px" /><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=taovv&layout=compact&theme=tokyonight" alt="Top Langs" height="185px" />
